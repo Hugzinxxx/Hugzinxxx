@@ -1,7 +1,7 @@
 <h1 align="center">Welcome to my shadow company</h1>  
 
 <p align="center">
-  <img src="https://i.ibb.co/39vVyLF5/tenor.gif" width="500" height="300">
+  <img src="https://c.tenor.com/eDKJXV9uHQIAAAAd/tenor.gif" width="500" height="300">
 </p>  
 
 ## 📌 About Me  
